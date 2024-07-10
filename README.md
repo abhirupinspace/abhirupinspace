@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/abhiruptweeton" target="blank"><img src="https://img.shields.io/twitter/follow/abhiruptweeton?logo=twitter&style=for-the-badge" alt="abhiruptweeton" /></a> </p>
 
-- 🌱 I’m currently learning **Rust? Maybe?**
+- 🌱 Currently learning **Rust? Maybe?**
 
 - 💬 Ask me about **Blockchain, Crypto and Statistics!**
 
